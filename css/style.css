@@ -29,6 +29,7 @@ h1 {
   padding: 10px;
   text-align: center;
 }
+
 #planets tr:nth-child(even){ 
   background-color: #222222;
   color: white;
