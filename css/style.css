@@ -10,3 +10,13 @@ body {
   height: 80px;
   border-radius: 50%;
 }
+
+h1 {
+  color: #222;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+#planets {
+  
+}
