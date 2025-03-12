@@ -1,0 +1,12 @@
+body {
+  font-family: 'Arial' 'sans-serif';
+  background-color: #A9A9A9;
+  text-align: center;
+  margin: 20px;
+}
+
+#planets img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
